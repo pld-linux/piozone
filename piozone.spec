@@ -6,6 +6,7 @@ License:	no restrictions
 Group:		Applications/System
 Source0:	ftp://ftp.lysator.liu.se/pub/unix/piozone/%{name}-%{version}.tar.gz
 # Source0-md5:	e48370a9aa80aed212b18e16c08b9056
+Patch0:		%{name}-build.patch
 URL:		http://www.lysator.liu.se/~pen/piozone/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
@@ -17,6 +18,7 @@ restrictions except that you may not pretend that you wrote this...
 
 %prep
 %setup  -q
+%patch0 -p1
 
 %build
 %{__make} \
