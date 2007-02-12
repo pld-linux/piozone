@@ -1,5 +1,5 @@
 Summary:	Peter's Disk Performance Benchmarking Tool
-Summary(pl):	Narzêdzie Petera do mierzenia wydajno¶ci dysku
+Summary(pl.UTF-8):   NarzÄ™dzie Petera do mierzenia wydajnoÅ›ci dysku
 Name:		piozone
 Version:	1.0
 Release:	1
@@ -17,11 +17,11 @@ Peter's Disk Performance Benchmarking Tool.
 Piozone is freely available and may be used by anyone without any
 restrictions except that you may not pretend that you wrote this...
 
-%description -l pl
-Narzêdzie Petera do mierzenia wydajno¶ci dysku.
+%description -l pl.UTF-8
+NarzÄ™dzie Petera do mierzenia wydajnoÅ›ci dysku.
 
-Piozone jest wolnodostêpne i mo¿e byæ u¿ywane przez kogokolwiek bez
-¿adnych restrykcji z wyj±tkiem twierdzenia, ¿e siê je napisa³o.
+Piozone jest wolnodostÄ™pne i moÅ¼e byÄ‡ uÅ¼ywane przez kogokolwiek bez
+Å¼adnych restrykcji z wyjÄ…tkiem twierdzenia, Å¼e siÄ™ je napisaÅ‚o.
 
 %prep
 %setup  -q
