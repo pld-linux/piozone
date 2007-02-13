@@ -1,5 +1,5 @@
 Summary:	Peter's Disk Performance Benchmarking Tool
-Summary(pl.UTF-8):   Narzędzie Petera do mierzenia wydajności dysku
+Summary(pl.UTF-8):	Narzędzie Petera do mierzenia wydajności dysku
 Name:		piozone
 Version:	1.0
 Release:	1
